@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeHelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_time">Show time</string>
+    <string name="time_header">Time is: </string>
+    <string name="hint_username">Enter your username here</string>
+    <string name="error_massage">This field cannot be empty</string>
+
+</resources>

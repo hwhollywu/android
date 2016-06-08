@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayHello</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="birthday_text">Select your birthday</string>
+    <string name="hint_name">Enter your name here</string>
+    <string name="hint_date">Enter your birthday here (yyyy/MM/dd)</string>
+    <string name="birthday">Show Info about Birthday</string>
+    <string name="error_message">This field cannot be empty</string>
+    <string name="error_future">Cannot be born in the future</string>
+</resources>
