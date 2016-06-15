@@ -117,7 +117,7 @@ public class MainActivity extends ActionBarActivity {
                     /*sdf = new SimpleDateFormat("EEEE");
                      final String dayOfTheWeek = sdf.format(dt);*/
 
-                    String toShow = "Age: "+ String.valueOf(age)+ System.lineSeparator()+
+                    String toShow = "Age: "+ String.valueOf(age)+ '\n'+
                             "Next birthday in " + String.valueOf(daysLeft) + " days";
 
                     Toast.makeText(MainActivity.this, toShow, Toast.LENGTH_LONG)

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_welcome">Hello in TicTacToe!</string>
+    <string name="clean_board">Clear Board</string>
+    <string name="txt_next_player">The next player is: </string>
+    <string name="text_hello">Welcome to Holly\'s TicTacToe!</string>
+    <string name="win_circle">"Circle wins! "</string>
+    <string name="win_cross">Cross wins!</string>
+    <string name="game_draw">Draw Game!</string>
+    <string name="time_circle">Elapsed Time for Circle</string>
+    <string name="time_cross">Elapsed Time for Cross</string>
+    <string name="start_game">Start Game</string>
+    <!--%1$d-->
+
+</resources>
+

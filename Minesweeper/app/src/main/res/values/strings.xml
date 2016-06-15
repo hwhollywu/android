@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_welcome">Welcome to Holly\'s Minesweeper!</string>
+    <string name="text_welcome2">Click to play :)</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_try">Try a field</string>
+    <string name="gameOver_boom">Boom!</string>
+    <string name="gameOver_flag">Wrong Flag!</string>
+    <string name="gameOver_win">You win!</string>
+    <string name="click_to_try_a_field_or_place_a_flag">Toggle Button: Click to try a field or place a flag</string>
+    <string name="_3_mines_left">3 Mines Left</string>
+
+</resources>

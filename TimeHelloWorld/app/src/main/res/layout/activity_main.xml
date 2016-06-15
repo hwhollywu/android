@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="#fff9f9ff"
     android:orientation="vertical"
-    tools:context="hu.ait.android.timehelloworld.MainActivity">-
+    tools:context="com.hwhollywu.timehelloworld.MainActivity">-
 
 
     <!-- this is a comment -->
