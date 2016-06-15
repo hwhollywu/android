@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_game"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.hwhollywu.highlowgame.GameActivity">
+    
+    <EditText
+        android:id="@+id/etGuess"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:inputType="number"
+        android:hint="Enter your guess here"/>
 
-</android.support.constraint.ConstraintLayout>
+    <Button
+        android:id="@+id/btnGuess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guess"/>
+
+    <TextView
+        android:id="@+id/tvData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/txtGuess"
+        android:text="@string/guess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"/>
+
+</LinearLayout>
